@@ -2,3 +2,16 @@ name: team
 version: '1.0'
 main: com.example.team.Team
 api-version: '1.21'
+commands:
+  myteam:
+    description: 2대2 팀 나누기
+  teamspawn:
+    description: 팀 스폰 설정
+  start:
+    description: 팀별 텔레포트
+  tc:
+    description: 팀 채팅 토글
+  ping:
+    description: 핑 종이 지급
+  quickmatch:
+    description: 퀵 메칭
