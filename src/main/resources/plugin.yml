@@ -1,7 +1,7 @@
 name: team
 version: '1.0'
 main: com.example.team.Team
-api-version: '1.21.8'
+api-version: '1.21'
 commands:
   myteam:
     description: 팀 초대/수락/거절
